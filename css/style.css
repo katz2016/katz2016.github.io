@@ -128,6 +128,7 @@ Color Customizations
 .bg-testimonial {background:url(../img/headshot-bg.jpg);}
 
 .blue {color: #08b4da;}
+.gold {color: #D1AC19;}
 
 .white-text {color: #FFF;}
 .white-text p {color: #FFF;}
@@ -192,7 +193,7 @@ Logo
 /* ==========================================================================
 Banner
 ========================================================================== */ 
-#banner {padding-top: 90px; padding-bottom: 70px; background: #1a1a1a; background-image: url(../img/blur.png); -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; height:100%; position: relative; background-attachment: fixed;}
+#banner {padding-top: 90px; padding-bottom: 70px; background: #1a1a1a; background-image: url(../img/blur-1.jpg); -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; height:100%; position: relative; background-attachment: fixed;}
 
 .banner-content { clear: both; padding-top: 40px;}
 .banner-content h1 {font-size: 50px; color: #FFF;  border-bottom:1px solid rgba(0,0,0,0.1); padding-bottom: 10px;}
